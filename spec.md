@@ -4,9 +4,7 @@ Esta seção divide o projeto em 4 módulos independentes para garantir commits 
 
 ## Módulo 1 — Otávio (Data Mocks & Base Models)
 
-### Prompt do agente
-
-Você é o agente responsável por executar a parte 1 do projeto "Feira de Bairro".
+Você é o  responsável por executar a parte 1 do projeto "Feira de Bairro".
 
 #### Tarefas
 
@@ -41,9 +39,7 @@ Você é o agente responsável por executar a parte 1 do projeto "Feira de Bairr
 
 ## Módulo 2 — Nicolas (OO Advanced, Hierarquia & Polimorfismo)
 
-### Prompt do agente
-
-Você é o agente responsável por executar a parte 2 do projeto "Feira de Bairro".
+Você é o responsável por executar a parte 2 do projeto "Feira de Bairro".
 
 #### Tarefas
 
@@ -73,9 +69,7 @@ Você é o agente responsável por executar a parte 2 do projeto "Feira de Bairr
 
 ## Módulo 3 — Pedro (Controllers & Business Logic Rules)
 
-### Prompt do agente
-
-Você é o agente responsável por executar a parte 3 do projeto "Feira de Bairro".
+Você é  responsável por executar a parte 3 do projeto "Feira de Bairro".
 
 #### Tarefas
 
@@ -100,9 +94,7 @@ Você é o agente responsável por executar a parte 3 do projeto "Feira de Bairr
 
 ## Módulo 4 — Vinicius (Routes, Main, Verification Script & README)
 
-### Prompt do agente
-
-Você é o agente responsável por executar a parte 4 do projeto "Feira de Bairro".
+Você é o responsável por executar a parte 4 do projeto "Feira de Bairro".
 
 #### Tarefas
 
